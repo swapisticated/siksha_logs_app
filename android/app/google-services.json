@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180272010064",
+    "project_id": "shiksha-usage-report",
+    "storage_bucket": "shiksha-usage-report.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180272010064:android:87056be9414a3223d01255",
+        "android_client_info": {
+          "package_name": "com.siksha_usage_report"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk2GdSSxrEbOlyLdwhCH2-zz_3v4fV5xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
