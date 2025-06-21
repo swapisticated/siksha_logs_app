@@ -61,7 +61,7 @@ npm run android
 
 ## 📸 Screenshots
 
-| Home Screen | Log View | Log View |
+| Robot Selector  | Log View | Log View |
 |-------------|----------------|-------------|
 | ![Home](https://github.com/user-attachments/assets/e7949c6c-6ccf-4f26-9692-4e261e78ad07) | ![Log](https://github.com/user-attachments/assets/36e981a0-d3ce-4cd8-86f0-ebfacd8f6447) | ![Sync](https://github.com/user-attachments/assets/0d03cc58-7468-4d73-bf7d-1d9a769427b6) |
 
